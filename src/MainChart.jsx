@@ -48,15 +48,15 @@ export const data = {
   labels,
   datasets: [
     {
-      label: "Lastro",
-      data: Data.LCASmall,
+      label: "Example 2",
+      data: Data.Example2Small,
       borderColor: "rgb(0, 27, 121)",
       backgroundColor: "rgba(0, 27, 121, 0.5)",
       fill: true,
     },
     {
-      label: "LCA",
-      data: Data.LastroSmall,
+      label: "Example 1",
+      data: Data.Example1Small,
       borderColor: "rgb(53, 162, 235)",
       backgroundColor: "rgba(53, 162, 235, 0.5)",
       fill: true,
